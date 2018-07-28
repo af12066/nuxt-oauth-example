@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-oauth-example",
+  "version": "1.0.0",
+  "description": "nuxt-oauth-example-application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "author": "Tak",
+  "license": "MIT",
+  "dependencies": {
+    "@nuxtjs/auth": "^4.5.1",
+    "@nuxtjs/axios": "^5.3.1",
+    "nuxt": "^1.4.1"
+  }
+}
