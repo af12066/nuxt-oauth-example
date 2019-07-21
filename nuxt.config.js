@@ -23,7 +23,7 @@ module.exports = {
         userinfo_endpoint: false,
         response_type: 'token',
         scope: [],
-        redirect_uri: 'http://localhost:3000/login',
+        redirect_uri: 'http://localhost:3000/callback',
         client_id: process.env.FOURSQUARE_CLIENT_ID,
         client_secret: process.env.FOURSQUARE_CLIENT_SECRET,
       },

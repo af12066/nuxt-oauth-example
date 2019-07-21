@@ -16,7 +16,7 @@ OAuth に必要な以下の環境変数を設定してください:
 ## 起動
 
 ```bash
-$ ndenv install
+$ nodenv install
 $ npm install
 $ npm run dev
 ```
