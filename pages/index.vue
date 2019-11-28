@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  midlleware: [
+  middleware: [
     'auth',
   ],
   methods: {
